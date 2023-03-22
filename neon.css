@@ -1,0 +1,26 @@
+
+h1 {
+  text-shadow: 2px 2px #5e5f5b;
+  text-align: center;
+  font-size: 10vmin;
+  font-weight:lighter;
+  font-family: monospace;
+}
+i{
+  font-size: 20px ;
+}
+h2 {
+  font-size: 4vmin;
+  font-weight: normal;
+}
+
+html {
+  block-size: 10%;
+  inline-size: 100%;
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: left;
+ background-color: antiquewhite; 
+}
